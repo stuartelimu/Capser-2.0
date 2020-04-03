@@ -1,3 +1,4 @@
+@media only screen and (min-width: 768px) {
 /* Offset headings from fixed header */
 .post-content h2::before,
 .post-content h3::before {
@@ -65,4 +66,5 @@ body {
 }
 ol.toc-list {
 	margin: 0;
+}
 }
